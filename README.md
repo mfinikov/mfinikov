@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="./wall.jpg" width="100%" />
-</p>
+<h2 align="center">
+  Arsenii Trutnev
+</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,go,java,nextjs,tailwind,bun,postgres,redis,docker,cloudflare,vercel,nginx,githubactions,git&theme=dark" />
